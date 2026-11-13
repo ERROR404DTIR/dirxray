@@ -1,4 +1,6 @@
 <p align="center">
+
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated DirXray project scan banner" width="100%"></p>
   <img src="assets/banner.svg" alt="dirxray - X-ray any folder" width="100%">
 </p>
 
